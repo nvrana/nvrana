@@ -4,7 +4,7 @@
 
 I've built data organizations from the ground up three times, at **Qualcomm**, **BMO** and **Workday**.
 
-🌐 **[nvrana.github.io/nvrana](https://nvrana.github.io/nvrana/)** · 💼 [LinkedIn](https://www.linkedin.com/in/nvrana/) · ✉️ [nvrana@gmail.com](mailto:nvrana@gmail.com)
+🌐 **[nvrana.github.io/nvrana](https://nvrana.github.io/nvrana/)** · 💼 [LinkedIn](https://www.linkedin.com/in/nvrana/)
 
 ### Impact
 
